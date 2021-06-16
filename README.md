@@ -5,3 +5,6 @@
 ##Purpose
 
 ##How to Contribute
+
+##Copy Right
+compyrifght sextion
